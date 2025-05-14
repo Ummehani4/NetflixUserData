@@ -30,9 +30,6 @@ This project focuses on analyzing **Netflix user data** to explore trends in con
 - Content Type (Movies vs TV Shows)
 - Time Series Trends (Added Date, etc.)
 
-## 📸 Visual Samples
-
-_Add screenshots or plots here if desired to make your README more engaging._
 
 ## 📈 Possible Future Improvements
 
